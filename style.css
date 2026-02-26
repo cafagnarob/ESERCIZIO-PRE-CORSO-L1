@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    height: 100vh;
+}
+.main-section{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 89%;
+}
+.image-container-prof{
+    height: 100%;
+}
+
+h1{
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 64px;
+  margin-bottom: 0;
+  color: red;
+  padding: 6px 0 0 22px
+}
+
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+
+li{
+    padding: 6px 0 6px 22px;
+}
+
+footer{
+    background-color: black;
+    color: #dfdfdf;
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profilo{
+    margin: 0;
+    width: 90vh;
+    padding: 6px 0 0 22px
+}
+
+.info{
+    justify-content: space-around;
+}
+
+.foto_profilo{
+    height: 100%;
+}
+
+h6{
+    padding: 0 22px; 
+    margin-top: 20px;
+}
+
+p{
+    margin: 0;
+}
+
+.interessi-esperienza{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
